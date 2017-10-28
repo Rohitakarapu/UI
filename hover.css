@@ -1,0 +1,17 @@
+#one{
+    height:300px;
+    width:200px;
+    background:green;
+}
+#one:hover{
+    background:blue;
+    border-radius:50%;
+}
+b:hover{
+    color:darkblue;
+    font-size:200px;
+}
+i:hover{
+    color:red;
+    font-size:300px;
+}

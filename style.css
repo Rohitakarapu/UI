@@ -1,0 +1,21 @@
+#first {
+    height:50px;
+    width:100%;
+    background:yellow;
+    color:red;
+}
+.rohit {
+    height:50px;
+    width:100%;
+    background:blue;
+}
+table,th,td{
+    border: 5px dashed black
+}
+body{
+    background-image:url('job.png');
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+    
+}
